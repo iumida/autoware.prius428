@@ -142,3 +142,7 @@ repositories:
     type: git
     url: https://github.com/iumida/prius428_individual_params.git
     version: main
+  sensor_component/external/novatel_gps_driver:
+    type: git
+    url: https://github.com/swri-robotics/novatel_gps_driver.git
+    version: ros2-devel
